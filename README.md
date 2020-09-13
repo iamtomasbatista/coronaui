@@ -23,3 +23,7 @@ $ npm start
 - Improve UI
 
 - Add unit tests. 
+
+- Dockerize it. 
+
+- Deploy somewhere.
