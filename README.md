@@ -8,7 +8,7 @@
 
 ## Requirements
 
-Node.js and npm (Developed with Node.js v12.18.2 and npm 6.14.5)
+Node.js and npm (Developed with Node.js v12.18.2 and npm 6.14.5).
 
 ## Installation
 
